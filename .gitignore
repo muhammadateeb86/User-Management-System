@@ -1,4 +1,2 @@
 node_modules/
-views/
-index.js
-var.env
+.env
